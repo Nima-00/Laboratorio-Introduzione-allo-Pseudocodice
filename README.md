@@ -1,4 +1,4 @@
-# 📐 Laboratorio: Introduzione agli Algoritmi
+# 🔤 Laboratorio: Introduzione agli Algoritmi
 
 Questo laboratorio serve per prenderere confidenza con il concetto di algoritmo. In particolare, l'obiettivo è imparare a leggere e scrivere semplici algoritmi formalizzati in Pseudocodice. La repo contiene le linee guide adottate per definire lo pseudocodice e una raccolta di esercizi.
 
